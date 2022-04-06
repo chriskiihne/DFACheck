@@ -1,0 +1,27 @@
+% Q
+AA
+BB
+CC
+DD
+% Sigma
+0
+1
+2
+% F
+AA
+DD
+% Q0
+AA
+% Delta
+AA 0 CC
+AA 1 CC
+AA 2 BB
+CC 0 CC
+CC 1 CC
+CC 2 CC
+BB 0 BB
+BB 1 BB
+BB 2 DD
+DD 0 BB
+DD 1 BB
+DD 2 DD
